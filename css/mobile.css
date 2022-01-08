@@ -1,0 +1,60 @@
+/* utility */
+.primary-btn {
+   padding: 5px 10px;
+}
+
+.primary-btn i {
+   font-size: 10px;
+}
+#watch {
+   font-size: 10px;
+   margin-left: 4px;
+}
+
+.secondary-btn i {
+   padding: 1px 8px;
+}
+
+.secondary-btn a {
+   font-size: 10px;
+}
+/* navbar */
+.nav {
+   padding: 10px;
+}
+
+.nav-container1 img:first-child {
+   width: 55px;
+   height: 30px;
+}
+
+.nav-list {
+   display: none;
+}
+
+.scrolling-active .nav {
+   height: 50px;
+   margin-top: 0px;
+}
+
+/* hero */
+.hero {
+   height: 27vh;
+}
+
+.showcase-logo {
+   margin-top: 40px;
+   height: 80px;
+   width: 100px;
+}
+
+.showcase-logo-container {
+   margin-left: 10px;
+}
+
+.showcase-logo-container h3 {
+   font-size: 8px;
+   margin-bottom: 4px;
+}
+
+/* content */

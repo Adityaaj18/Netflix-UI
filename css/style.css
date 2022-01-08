@@ -158,11 +158,23 @@ header {
    margin-left: 25px;
 }
 
+.nav-container2 .nav-element i,
+.nav-container2 .nav-element a:hover {
+   cursor: pointer;
+}
+
+#dropdown {
+   margin-left: 5px;
+}
+
 .nav-container2 .nav-element img {
    width: 32px;
    height: 32px;
    border-radius: 4px;
    margin-left: 25px;
+}
+.nav-container2 .nav-element img:hover {
+   cursor: pointer;
 }
 
 .nav-element i {
@@ -271,18 +283,18 @@ header {
    color: #fff;
 }
 
-.scrolling-active #nav-cta {
+/* .scrolling-active #nav-cta {
    background-color: #313131;
    color: #fff;
-}
-
+} */
+/* 
 .scrolling-active #nav-cta:hover {
    background-color: #151515;
-}
+} */
 
-.scrolling-active .nav-link::after {
+/* .scrolling-active .nav-link::after {
    background-color: #313131;
-}
+} */
 
 /* footer */
 footer {
