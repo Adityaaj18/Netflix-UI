@@ -204,10 +204,11 @@ header {
    width: 35vw;
 }
 
-.showcase-logo-container h3 {
+.showcase-logo-container p {
    color: #fff;
    text-decoration: none;
    font-weight: 400;
+   font-size: 20px;
    opacity: 0.9;
    text-shadow: 2px 2px 4px rgb(0 0 0 / 45%);
    line-height: normal;
